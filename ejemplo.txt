@@ -1,3 +1,5 @@
-Añado linea en Main
+<<<<<<< HEAD
+=======
+>>>>>>> rama
 Esto es una prueba
 He modificado el archivo
